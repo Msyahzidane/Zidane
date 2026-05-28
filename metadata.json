@@ -1,0 +1,10 @@
+{
+  "name": "ESP32 Control Center",
+  "description": "Web interface untuk mengontrol relay dan memonitor suhu dan kelembapan dari perangkat ESP32",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
